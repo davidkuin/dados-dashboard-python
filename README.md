@@ -19,8 +19,7 @@ Gerar gráficos direto no dashboard para facilitar a análise.
 
 ###📚 Analise de dados Python
 
-Construa um Dashboard interativo
-
+ Dashboard interativo
 
 ## 💻Tecnologias e biblioteca
 
